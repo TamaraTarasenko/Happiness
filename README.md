@@ -28,3 +28,6 @@ It includes the following columns:
 9. perceptions_of_corruption    | A measure of perception of corruption within a country.
 
 Short demo video: https://drive.google.com/file/d/1FM7m5Cn7jQupL4cn44KOZyMsof5nMPzM/view?usp=sharing
+
+First version of the project: 
+https://drive.google.com/file/d/1bN9lCxceZM7tCwzuTettTQ2zw1uXZJhq/view?usp=sharing
