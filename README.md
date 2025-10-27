@@ -26,3 +26,4 @@ It includes the following columns:
 8. generosity                   | A metric reflecting generosity.
 9. perceptions_of_corruption    | A measure of perception of corruption within a country.
 
+Short demo video: https://drive.google.com/file/d/1FM7m5Cn7jQupL4cn44KOZyMsof5nMPzM/view?usp=sharing
